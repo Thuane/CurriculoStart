@@ -1,0 +1,23 @@
+body{
+    margin-left:20px;
+}
+img{ 
+    width: 100px;
+    border-radius: 90px;
+    box-shadow: none;
+    text-decoration:none;
+
+}
+.header{
+    margin-left:120px;
+    margin-top:-120px;
+}
+
+#roda {
+    position: absolute;
+    width: 150px;
+    height: 150%;
+    left: 400px;
+    top: 0px;
+    background: #19304F;
+}
