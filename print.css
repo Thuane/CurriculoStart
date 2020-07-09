@@ -9,8 +9,7 @@
     max-width: 1096px;
     margin: auto;
     font-family: "Roboto", sans-serif;
-    
-  
+
   
   }
   
@@ -90,7 +89,7 @@
   }
   
   .contato h2 {
-  
+    color:rgb(128, 0, 0);
     margin-top: 150px;
     margin-left: 50px;
     
@@ -101,19 +100,20 @@
     line-height: 20px;
     margin: 0px 0px 20px 50px;
     max-width: 200px;
+    color:black;
+    
   }
-  
-  .conhecimento {
-    margin: 0px 50px;
-  }
-  
+
   .conhecimento h2 {
+    color:rgb(128, 0, 0);
     margin-top: 50px;
   }
   .conhecimento ul li{
     margin:0px 0px 10px 5px;
-    border-bottom: 2px solid #ffffff;
+    border-bottom: 2px solid ;
     list-style: none;
+    color:black;
+    
   }
   span {
     width: 300px;
@@ -121,7 +121,7 @@
     margin-top:60px;
   }
   span a {
-    color: #ffffff;
+    color: black;
     margin-left: 7px;
   }
   
